@@ -1,4 +1,4 @@
----
+sync ---
 Order:
 Area: editor
 TOCTitle: Glob Patterns Reference
